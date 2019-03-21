@@ -1,0 +1,10 @@
+.animal_card {
+    display: inline-block;
+    height: 300px;
+    width: 50%;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 4px;
+
+}
